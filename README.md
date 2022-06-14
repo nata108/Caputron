@@ -1,17 +1,13 @@
-<img src="https://gitlab.com/microlab1/public-projects/marg-mocap-ur-measurement-softwer/-/raw/master/doc/pics/GPK_BME_MOGI.png">
-
 # Exploring the Effects of Caputo Fractional Derivative in Spiking Neural Network Training
 
 This repository contains the supplementary code files of manuscript entitled "Exploring the Effects of Caputo Fractional Derivative in Spiking Neural Network Training".
 <br />
 The code found in the source folder contain Tempotron-like learning algorithms acompanied by Caputron, a fractional-order derivative-based optimizer. Utility functions for mass evaluations and hyperparameter optimization are also included.
 
-[[_TOC_]]
-
 ## Implemented by<br>
-Natababara Gyöngyössy <gyongyossy.natabara@mogi.bme.hu><br />
+Natababara Gyöngyössy <natabara@inf.elte.hu><br />
 Gábor Erős <gaboreros96@gmail.com><br>
-Dr. János Botzheim <botzheim@mogi.bme.hu>
+Dr. János Botzheim <botzheim@inf.elte.hu>
 
 ## Installation guide<br>
 **1. step:** Clone this repository. <br>
