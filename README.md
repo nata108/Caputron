@@ -1,6 +1,8 @@
 # Exploring the Effects of Caputo Fractional Derivative in Spiking Neural Network Training
 
-This repository contains the supplementary code files of manuscript entitled "Exploring the Effects of Caputo Fractional Derivative in Spiking Neural Network Training".
+This repository contains the supplementary code files of our paper entitled "Exploring the Effects of Caputo Fractional Derivative in Spiking Neural Network Training".
+[https://www.mdpi.com/2079-9292/11/14/2114](https://www.mdpi.com/2079-9292/11/14/2114)
+
 <br />
 The code found in the source folder contain Tempotron-like learning algorithms acompanied by Caputron, a fractional-order derivative-based optimizer. Utility functions for mass evaluations and hyperparameter optimization are also included.
 
@@ -71,5 +73,18 @@ PSO is used for optimizing the derivative order as a hyperparameter. This class 
 This is an example of hyperparameter optimization of the derivative order alpha, with the Sonar dataset. A PSO optimizer is initialized and used to optimize with the above mentioned fitness function which facilitates batch trainings for each hyperparameter value examined.
 
 
-
+## Citation:
+`@Article{electronics11142114,
+AUTHOR = {Gyöngyössy, Natabara Máté and Eros, Gábor and Botzheim, János},
+TITLE = {Exploring the Effects of Caputo Fractional Derivative in Spiking Neural Network Training},
+JOURNAL = {Electronics},
+VOLUME = {11},
+YEAR = {2022},
+NUMBER = {14},
+ARTICLE-NUMBER = {2114},
+URL = {https://www.mdpi.com/2079-9292/11/14/2114},
+ISSN = {2079-9292},
+DOI = {10.3390/electronics11142114}
+}
+`
 
